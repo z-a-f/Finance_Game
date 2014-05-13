@@ -1,2 +1,2 @@
-Finance_Game
+Finance Game
 ============
