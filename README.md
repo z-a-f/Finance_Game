@@ -1,6 +1,6 @@
 Finance Game
 ============
-> This is a very simple game. The template is built as part of the [Harvard CS50x course](https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022).
+> This is a very simple finance game (using [Yahoo Finance API](https://code.google.com/p/yahoo-finance-managed/wiki/YahooFinanceAPIs). The template is built as part of the [Harvard CS50x course](https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022).
 
 ## Setup
 1. Setup MySQL. If you don't know how to start, check [this link](https://help.ubuntu.com/12.04/serverguide/mysql.html), or [this link](http://abbysays.wordpress.com/2008/05/20/how-to-startstop-mysql-server-on-ubuntu-804/).
