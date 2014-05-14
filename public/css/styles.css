@@ -1,0 +1,50 @@
+/**
+ * styles.css
+ * Global CSS.
+ */
+
+.container
+{
+    /* center contents */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#topHead
+{
+    float: left;    
+}
+
+#middle .form-control
+{
+    /* center form controls */
+    display: inline-block;
+
+    /* override Bootstrap's 100% width for form controls */
+    width: auto;
+}
+
+#middle .nav
+{
+    /* center navigation pills */
+    display: inline-block;
+}
+
+#middle td
+{
+    /* left-align tables' cells */
+    text-align: left;
+    /* border-bottom: 1px solid; */
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 20px;
+}
